@@ -1,4 +1,4 @@
-#hi1234567
+#hi12345678
 
 ActiveAdmin.register AdminUser do
   permit_params :email, :password, :password_confirmation
